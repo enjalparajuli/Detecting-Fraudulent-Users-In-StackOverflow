@@ -5,3 +5,5 @@ Stackoverflow is an on-line community of users who are involved in questioning a
 
 Since the reputation of each person is determined by other users in the community, this creates a loophole for fraudulent activity. If a person 'X' hates user 'Y', all user 'X' needs to do is to go to every question or answer posted by user 'Y' and down-vote it(i.e. mark it as non-relevant). This might decrease user 'Y' reputation severely and thus decreasing his importance. On the contrary, if user 'X' likes user 'Y', user 'X' can actually up-vote all questions and answers posted by user 'Y' and increase user 'Y' reputation. Such users usually post unrelated answers or comments randomly on some other people useful questions or answers or comments. There might be a group of users who are involved in such kind of activity. Their victim might be a single user or a group of users. I call them fraudulent users and I am interested in finding out group/s of users involved in such activity.
 
+DataSet used - http://snap.stanford.edu/data/sx-stackoverflow.txt.gz
+
